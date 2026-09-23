@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "d55eda2721fbf64e9fe3831c",
+  "owner": "kbxmsy",
+  "repo": "page-bc74b8e115fa9b2c40efa031",
+  "title": "Lilt",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "bc74b8e115fa9b2c40efa031",
+      "a": "Lilt",
+      "b": "2027官方最新地址导航",
+      "entity": "Lilt",
+      "brand": "Lilt",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "84134bb37d126c3f906450f73c05569b0bcdf850a539081b4796fb0f39ef0a34",
+      "content": {
+        "primary_entity": "Lilt",
+        "keyword1": "Lilt",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，订阅配置更简单。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求选套餐，前往购买链接完成订阅。",
+          "AI_CLOSING_TITLE": "开启加速体验",
+          "AI_DESCRIPTION": "，围绕设备选择与订阅配置提供清晰套餐对比。基础版适合轻度使用，旗舰版支持 5 台设备并优化游戏加速，团队版面向多设备协作。按年付可享更优价格。",
+          "AI_FEATURES_INTRO": "从套餐、设备到订阅周期，快速了解选择要点。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 ¥15/月提供 100GB 流量与 3 台设备，适合日常浏览。",
+          "AI_FEATURE_TEXT_2": "旗舰版 ¥35/月包含 300GB 流量与 5 台设备，IPLC 专线优化游戏。",
+          "AI_FEATURE_TEXT_3": "团队版 ¥85/月支持 1000GB 流量与 20 台设备，适合多人协作。",
+          "AI_FEATURE_TITLE_1": "套餐对比",
+          "AI_FEATURE_TITLE_2": "设备选择",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "三步完成 Lilt 加速器订阅与配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "Lilt 提供海外网络加速服务，按流量与设备数量划分基础版、旗舰版和团队版。选择适合的套餐后，在常用设备上配置订阅，即可获得更稳定的连接体验。",
+          "AI_HERO_SUBTITLE": "海外加速器套餐对比",
+          "AI_HIGHLIGHT_1": "三档套餐满足不同设备数量",
+          "AI_HIGHLIGHT_2": "IPLC 专线优化游戏加速",
+          "AI_HIGHLIGHT_3": "按年付享更优价格",
+          "AI_PLANS_INTRO": "基础版 ¥15/月 100GB 流量支持 3 台设备，旗舰版 ¥35/月 300GB 流量支持 5 台设备并含 IPLC 专线，团队版 ¥85/月 1000GB 流量支持 20 台设备。均提供年付方案。",
+          "AI_PLANS_TITLE": "套餐选择",
+          "AI_STEP_TEXT_1": "根据日常流量和设备数量，在基础版、旗舰版、团队版中挑选合适套餐。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备数量与流量额度，确认与常用设备匹配。",
+          "AI_STEP_TEXT_3": "在手机或电脑上参考客户端订阅配置文档完成导入。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Lilt 海外加速器",
+          "AI_FAQ_ANSWER_1": "基础版 100GB/月，旗舰版 300GB/月，团队版 1000GB/月。日常浏览选基础版即可；经常看高清视频或玩游戏可选旗舰版；多人共享或团队使用选团队版更合适。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。如果手机、电脑、平板需要同时使用，建议按实际设备数选择对应套餐。",
+          "AI_FAQ_ANSWER_3": "可以。年付方案更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。订阅周期按自然月或自然年计算，具体以购买时显示的周期为准。",
+          "AI_FAQ_ANSWER_4": "旗舰版包含 IPLC 专线并针对游戏加速优化，团队版提供 VIP 专属高带宽节点。基础版为普通线路节点池，适合日常浏览与普通视频场景。",
+          "AI_FAQ_ANSWER_5": "购买后你会获得 Lilt 订阅链接，在所选客户端中导入该链接即可使用。不同客户端的导入位置不同，建议查看对应客户端的订阅导入说明。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐周期。",
+          "AI_FAQ_QUESTION_1": "Lilt 各套餐的月流量是多少？",
+          "AI_FAQ_QUESTION_2": "每个套餐支持多少台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "可以按年付费吗？价格是多少？",
+          "AI_FAQ_QUESTION_4": "旗舰版和团队版在节点方面有什么优势？",
+          "AI_FAQ_QUESTION_5": "购买后如何导入 Lilt 订阅？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "aaeyi.cn",
+    "host": "aaeyi.cn"
+  },
+  "file_hashes": {
+    "index.html": "07f81e6d1a5dd6f036bc9356b79a7fcf5e7f726327a8eb5da7126e93192165d7",
+    "sitemap.xml": "15603fdd202d7bdb507c6a9961e28af255fedf2740d54f823a453859b474ff4f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "667ba636b7f6cf7ed1c272a7f9f58aedbc5f614bee6edbcfa1e5bbe322190f83",
+    "robots.txt": "f4f2fae2b5550d86a02d916a196cd2fcf080c9b8b2af989b332996ec22641625",
+    "eefc40c32fff426997e0f155806f1e07.txt": "083a0af6dddaf160fc7e6a5cbe68738efe19ada906055c103c670044e285e500"
+  },
+  "revision": "a3d27b3b99dc8103ef8937f252d27473f47810a46450da4529dab01938e00b25"
+}
